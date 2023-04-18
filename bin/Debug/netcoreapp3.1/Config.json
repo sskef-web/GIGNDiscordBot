@@ -1,0 +1,13 @@
+﻿{
+
+  "version": "1.0",
+  "token": "MTA3ODc2ODQzMTI5NTM3NzYwMA.G_ewAZ.BqBm_ucKQEtP0Su4XZyv9fSYf57jwHOKFW8oa4",
+
+  "prefixes": [ "." ],
+  "join_message": "Hello, I'm Discord Bot! :heart:",
+
+  "currently": "playing|listening|watching|streaming",
+  "playing_status": "cool status here.",
+  "status": "online|dnd|idle|offline"
+
+}
