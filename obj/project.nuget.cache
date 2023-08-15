@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8LYknjSStPFOOvpqlubWrMrYmRomr7bSSlAG4OeWcmFg6198/dWZaYFxv0jpnAl/1AOMUE7aVKY6E+n7m6+LdQ==",
+  "dgSpecHash": "X63BbjDSXYNWHOTV/kK+F7fUwnRtSRCtA+W/KuibI0fSqh+2qR0zSTuomWOIQMgDcFNswS+AsvPOBLPIX8kIdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fedor\\source\\repos\\Discord-Bot-Csharp\\Discord Bot Csharp.csproj",
+  "projectFilePath": "C:\\Users\\fedor\\OneDrive\\Документы\\GitHub\\GIGNDiscordBot\\Discord Bot Csharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fedor\\.nuget\\packages\\discord.net\\2.2.0\\discord.net.2.2.0.nupkg.sha512",
     "C:\\Users\\fedor\\.nuget\\packages\\discord.net.commands\\2.2.0\\discord.net.commands.2.2.0.nupkg.sha512",

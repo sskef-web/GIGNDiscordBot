@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fedor\\source\\repos\\Discord-Bot-Csharp\\Discord Bot Csharp.csproj": {}
+    "C:\\Users\\fedor\\OneDrive\\Документы\\GitHub\\GIGNDiscordBot\\Discord Bot Csharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fedor\\source\\repos\\Discord-Bot-Csharp\\Discord Bot Csharp.csproj": {
+    "C:\\Users\\fedor\\OneDrive\\Документы\\GitHub\\GIGNDiscordBot\\Discord Bot Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fedor\\source\\repos\\Discord-Bot-Csharp\\Discord Bot Csharp.csproj",
+        "projectUniqueName": "C:\\Users\\fedor\\OneDrive\\Документы\\GitHub\\GIGNDiscordBot\\Discord Bot Csharp.csproj",
         "projectName": "Discord Bot Csharp",
-        "projectPath": "C:\\Users\\fedor\\source\\repos\\Discord-Bot-Csharp\\Discord Bot Csharp.csproj",
+        "projectPath": "C:\\Users\\fedor\\OneDrive\\Документы\\GitHub\\GIGNDiscordBot\\Discord Bot Csharp.csproj",
         "packagesPath": "C:\\Users\\fedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fedor\\source\\repos\\Discord-Bot-Csharp\\obj\\",
+        "outputPath": "C:\\Users\\fedor\\OneDrive\\Документы\\GitHub\\GIGNDiscordBot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,9 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {
@@ -88,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.300-preview.23179.2\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.7.23376.3\\RuntimeIdentifierGraph.json"
         }
       }
     }

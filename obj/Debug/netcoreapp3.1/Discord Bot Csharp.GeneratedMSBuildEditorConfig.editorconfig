@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = Discord_Bot_Csharp
-build_property.ProjectDir = C:\Users\fedor\source\repos\Discord-Bot-Csharp\
+build_property.ProjectDir = C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

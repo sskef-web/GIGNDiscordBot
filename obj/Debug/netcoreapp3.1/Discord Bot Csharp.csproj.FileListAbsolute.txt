@@ -23,3 +23,29 @@ C:\Users\fedor\Source\Repos\Discord-Bot-Csharp\obj\Debug\netcoreapp3.1\Discord B
 C:\Users\fedor\Source\Repos\Discord-Bot-Csharp\obj\Debug\netcoreapp3.1\Discord Bot Csharp.dll
 C:\Users\fedor\Source\Repos\Discord-Bot-Csharp\obj\Debug\netcoreapp3.1\Discord Bot Csharp.pdb
 C:\Users\fedor\Source\Repos\Discord-Bot-Csharp\obj\Debug\netcoreapp3.1\Discord Bot Csharp.genruntimeconfig.cache
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Discord Bot Csharp.exe
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Discord Bot Csharp.deps.json
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Discord Bot Csharp.runtimeconfig.json
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Discord Bot Csharp.runtimeconfig.dev.json
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Discord Bot Csharp.dll
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Discord Bot Csharp.pdb
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\obj\Debug\netcoreapp3.1\Discord Bot Csharp.csproj.AssemblyReference.cache
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\obj\Debug\netcoreapp3.1\Discord Bot Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\obj\Debug\netcoreapp3.1\Discord Bot Csharp.AssemblyInfoInputs.cache
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\obj\Debug\netcoreapp3.1\Discord Bot Csharp.AssemblyInfo.cs
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\obj\Debug\netcoreapp3.1\Discord Bot Csharp.csproj.CoreCompileInputs.cache
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\obj\Debug\netcoreapp3.1\Discord Bot Csharp.sourcelink.json
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\obj\Debug\netcoreapp3.1\Discord Bot Csharp.csproj.CopyComplete
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\obj\Debug\netcoreapp3.1\Discord Bot Csharp.dll
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\obj\Debug\netcoreapp3.1\Discord Bot Csharp.pdb
+C:\Users\fedor\OneDrive\Документы\GitHub\GIGNDiscordBot\obj\Debug\netcoreapp3.1\Discord Bot Csharp.genruntimeconfig.cache
